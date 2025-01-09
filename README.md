@@ -1,7 +1,27 @@
+# Sunshine Tseng 作品集網站
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshinetseng%2Fshinetseng-sunshine-tseng-portfolio)
-  
-cd d:/deepseek/sunshine-tseng
-git add README.md
-git commit -m "Update README with Vercel deployment info"
-git push origin main
+## 項目概述
+這是一個展示 Sunshine Tseng 作品的個人網站，包含以下頁面：
+- 首頁：個人簡介與精選作品
+- 作品集：完整作品展示
+- 最新消息：更新與動態
+
+## 功能特色
+- 響應式網頁設計
+- 作品網格展示
+- 簡潔美觀的用戶界面
+- 易於維護的結構
+
+## 技術棧
+- HTML5
+- CSS3
+- JavaScript (未來擴展)
+
+## 安裝與運行
+1. 克隆本項目
+2. 直接打開 index.html 即可瀏覽
+
+## 待辦事項
+- [ ] 添加實際作品圖片
+- [ ] 完善關於我頁面
+- [ ] 添加聯繫表單功能
